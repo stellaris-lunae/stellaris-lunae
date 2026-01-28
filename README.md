@@ -1,7 +1,4 @@
 ## Hello
-![GitHub Card](https://githubcard.com/g/xrFQPgKN.svg)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stellaris-lunae&theme=midnight_purple) 
 
-
-Hello, hello! I'm Alyx, a transfeminine software dev. Thanks for checking out my profile <3
-
-( PS: please use she/her or they/them, not anything else ❤️ )
+Hai hai, I'm Stellaris Lunae, otherwise known as Stella.
